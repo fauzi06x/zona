@@ -1,0 +1,24 @@
+.form-group.has-error .label-error {
+    color: #dd4b39;
+}
+#main-wrapper {
+    margin: 5%;
+}
+.center {
+    display: block;
+    float: none !important;
+    margin: 0 auto;
+}
+.close {
+    background-image: url("../img/icon/remove-icon-small.png") !important;
+    background-repeat: no-repeat !important;
+    display: inline-block;
+    height: 9px;
+    margin-right: 0;
+    margin-top: 0;
+    width: 9px;
+}
+
+ul.yiiPager a:link, ul.yiiPager a:visited {
+	padding: 5px 10px !important;
+}

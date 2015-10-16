@@ -1,0 +1,2 @@
+#Mencegah Directory Listing
+Options -Indexes
